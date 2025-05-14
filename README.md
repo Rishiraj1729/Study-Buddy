@@ -36,7 +36,7 @@ StudyBuddy is an advanced AI-powered learning assistant built with Next.js and G
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/study-buddy.git
+   git clone https://github.com/Rishiraj1729/Study-Buddy.git
    cd study-buddy
    ```
 
