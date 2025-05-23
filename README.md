@@ -9,7 +9,7 @@ StudyBuddy is an advanced AI-powered learning assistant built with Next.js and G
 - **LaTeX Support**: Properly render mathematical equations and formulas
 - **User Authentication**: Secure login with credentials or Google OAuth
 - **Mobile Responsive**: Works well on all device sizes
-- **History Tracking**: Save and review previous chat sessions
+- **History Tracking**: Save and review previous chat sessions.
 - **Voice Input**: Ask questions using voice recognition (on supported browsers)
 
 ## Tech Stack
